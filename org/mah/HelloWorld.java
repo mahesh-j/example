@@ -8,6 +8,6 @@ public class HelloWorld {
                 System.out.println("Argument " + i + ": " + args[i]);
             }
         } else
-            System.out.println("You passed no Arguments Mahesh\n");
+            System.out.println("You passed no Arguments\n");
     }
 }
